@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BinaryChopper' target in the 'BinaryChopper' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
