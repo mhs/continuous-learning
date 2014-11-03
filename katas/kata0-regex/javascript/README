@@ -1,0 +1,5 @@
+The regular expressions in test.js are tested with something called Mocha. Mocha can be installed wth npm:
+> npm install mocha
+
+Then to run the tests, type
+> mocha

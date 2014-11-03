@@ -206,7 +206,7 @@ describe("Regular Expressions", function() {
 	});
 
 	describe("Replacing with Caps", function(){
-		it("" , function(){
+		it("Using replace, show that adjectives can be modified." , 	function(){
 			var solution = new RegExp("fill me in!");
 
 			str = "The world is a fiery place!".replace(solution, "string here");
@@ -216,7 +216,6 @@ describe("Regular Expressions", function() {
 			expect("The planet is a WATERY place!").to.equal(str);
 		});
 	});
-
 
 	//
 
