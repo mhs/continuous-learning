@@ -1,0 +1,18 @@
+{
+  "name": "kata0-regex",
+  "version": "0.0.0",
+  "description": "Install dependencies with 'npm install' and run tests with 'npm test'.",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sydney Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.0.1"
+  }
+}
