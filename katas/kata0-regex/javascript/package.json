@@ -1,0 +1,17 @@
+{
+  "name": "kata0-regex",
+  "version": "0.0.0",
+  "description": "The regular expressions in test.js are tested with something called Mocha. Mocha can be installed wth npm: > npm install mocha",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.0.1"
+  }
+}
